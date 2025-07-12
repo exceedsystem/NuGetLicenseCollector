@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnumNuGetLicences": {
+      "commandName": "Project",
+      "commandLineArgs": "G:\\Projects\\MAUI\\Foculix\\Foculix.csproj"
+    }
+  }
+}
